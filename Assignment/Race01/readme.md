@@ -6,10 +6,10 @@
 ### paste image
 
 ## Problem 2: Even or Odd
-### paste image
+### ![WhatsApp Image 2023-08-28 at 1 51 43 PM](https://github.com/amnaasim24/Pf_Fall_23/assets/142867835/99b99d6f-94f0-4af7-bb9f-5f46063f1bd6)
 
 ## Problem 3: Adult or Minor
-### paste image
+### ![WhatsApp Image 2023-08-28 at 2 47 37 PM](https://github.com/amnaasim24/Pf_Fall_23/assets/142867835/f851a878-8176-4da1-83fa-8901c90307d1)
 
 ## Problem 4: Bus fare
 ### paste image
