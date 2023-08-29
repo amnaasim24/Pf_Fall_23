@@ -12,7 +12,7 @@
 ### ![WhatsApp Image 2023-08-28 at 2 47 37 PM](https://github.com/amnaasim24/Pf_Fall_23/assets/142867835/f851a878-8176-4da1-83fa-8901c90307d1)
 
 ## Problem 4: Bus fare
-### paste image
+### ![WhatsApp Image 2023-08-29 at 7 59 31 AM](https://github.com/amnaasim24/Pf_Fall_23/assets/142867835/f5d547a4-29cf-4baa-baea-4c9177886a5f)
 
 ## Problem 5: Which Floor
 ### ![WhatsApp Image 2023-08-28 at 6 40 15 PM](https://github.com/amnaasim24/Pf_Fall_23/assets/142867835/b789740e-1c91-47a7-b436-b21388446544)
