@@ -16,3 +16,21 @@
 
 ## Problem 5: Which Floor
 ### ![WhatsApp Image 2023-08-28 at 6 40 15 PM](https://github.com/amnaasim24/Pf_Fall_23/assets/142867835/b789740e-1c91-47a7-b436-b21388446544)
+
+
+
+## Problem ## 6:
+### 
+
+## Problem ## 7:
+### *Could not be solved, need help*
+
+## Problem ## 8:
+### 
+
+## Problem ## 9:
+### 
+
+## Problem ## 10:
+### 
+
