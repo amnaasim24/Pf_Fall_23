@@ -19,18 +19,20 @@
 
 
 
+
 ## Problem ## 6:
-### 
+### ![image](https://github.com/amnaasim24/Pf_Fall_23/assets/142867835/deffd275-3d6a-4284-9c91-fdabe40dd4d5)
 
 ## Problem ## 7:
 ### *Could not be solved, need help*
 
 ## Problem ## 8:
-### 
+### ![image](https://github.com/amnaasim24/Pf_Fall_23/assets/142867835/ba56ce68-f2ff-4781-8142-3634bed7ac24)
 
 ## Problem ## 9:
-### 
+### ![image](https://github.com/amnaasim24/Pf_Fall_23/assets/142867835/04f0d8a7-e450-4106-a801-9fec024ee664)
 
 ## Problem ## 10:
-### 
+### ![image](https://github.com/amnaasim24/Pf_Fall_23/assets/142867835/b306ef8f-7120-4d6d-8eac-ed95b2b109da)
+
 
