@@ -1,5 +1,10 @@
-#include<stdio.h>
+/*
+ *Programmer: Amna Asim
+ *Date: 20th september, 2023
+ *Description:Lab 4, Question 3.
+ */
 
+#include<stdio.h>
 int main() {
 
 	int n, sum=0, i=1, arr[6]={0}, in;
