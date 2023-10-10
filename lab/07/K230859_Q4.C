@@ -1,0 +1,58 @@
+ // Programmer: Amna Asim
+// Lab 07
+// Question 4
+// Description: Take a 2D array(Matrix) as input from user and check that array is symmetric or not.
+
+
+
+#include<stdio.h>
+int main() {
+	int arr[2][2];
+	int transpose[2][2];
+	int i, j;
+	printf("\nPlease enter the elements for a 2x2 matrix:");
+	for( i=0; i<2; i++ ){
+		for( j=0; j<2; j++){
+
+			scanf("%d", &arr[i][j]);
+		}
+	}
+	printf("\nYour 2x2 matrix is:");
+	for( i=0; i<2; i++ ){
+		for( j=0; j<2; j++){
+			printf("%d\t",arr[i][j]);
+		}
+		printf("\n");
+	}
+	for( i=0; i<2; i++ ){
+		for( j=0; j<2; j++){
+			transpose[j][i]=arr[i][j];
+		}
+	}
+	printf("\nYour transpose matrix is:");
+	for( i=0; i<2; i++ ){
+		for( j=0; j<2; j++){
+			printf("%d\t", transpose[i][j]);
+		}
+		printf("\n");
+	}
+	int count=0;
+	for( i=0; i<2; i++ ){
+		for( j=0; j<2; j++){
+			if(transpose[i][j]==arr[i][j]){
+				count++;
+			}
+			else{
+				count=0;
+			}
+		}
+	}
+	if(count==4){
+		printf("\nYour matrix is SYMMETRIC!");
+	}
+	else{
+		printf("\nYour matrix is ASYMMETRIC!");
+	}
+	return 0;
+}
+	
